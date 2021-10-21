@@ -1,0 +1,1063 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <channel id="Special Event Sports HD 01">
+    <display-name lang="en">Special Event Sports HD 01</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/439_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 02">
+    <display-name lang="en">Special Event Sports HD 02</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/276_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 03">
+    <display-name lang="en">Special Event Sports HD 03</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/277_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 04">
+    <display-name lang="en">Special Event Sports HD 04</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/278_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 05">
+    <display-name lang="en">Special Event Sports HD 05</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/279_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 06">
+    <display-name lang="en">Special Event Sports HD 06</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/280_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 07">
+    <display-name lang="en">Special Event Sports HD 07</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/230_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 08">
+    <display-name lang="en">Special Event Sports HD 08</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/231_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 09">
+    <display-name lang="en">Special Event Sports HD 09</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/232_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 10">
+    <display-name lang="en">Special Event Sports HD 10</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/229_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 11">
+    <display-name lang="en">Special Event Sports HD 11</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/234_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 12">
+    <display-name lang="en">Special Event Sports HD 12</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/233_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <programme start="20210727015500 +0000" stop="20210727055000 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">(L) Judo</title>
+    <desc lang="en">LIVE: Elimination Rounds - Quarter Finals (Womens - 63kg &amp; Mens -81kg), from Nippon Budokan Hall, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727055000 +0000" stop="20210727075500 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">(L) Diving</title>
+    <desc lang="en">LIVE: Women's Synchronised 10m Platform Final, from Tokyo Aquatics Centre, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727075500 +0000" stop="20210727112000 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">(L) Judo</title>
+    <desc lang="en">LIVE: Repechages - Semifinals &amp; Finals (Womens - 63kg &amp; Mens -81kg),  from Nippon Budokan Hall, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727112000 +0000" stop="20210727135000 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">(L) Football: BRA v ZAM</title>
+    <desc lang="en">LIVE: Women's Round 1: Brazil vs Zambia, from Saitama Stadium, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727135000 +0000" stop="20210727153000 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">(D) Football: CAN v GBR</title>
+    <desc lang="en">DELAYED: Women's  Round 1: Canada vs Great Britain, from Ibaraki Kashima Stadium, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFO.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727153000 +0000" stop="20210727180500 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 3 Part 2, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727180500 +0000" stop="20210727213000 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">Judo</title>
+    <desc lang="en">Repechages - Semifinals &amp; Finals (Womens - 63kg &amp; Mens -81kg),  from Nippon Budokan Hall, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727213000 +0000" stop="20210727235000 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">Weightlifting</title>
+    <desc lang="en">Women's 59kg Group A, from Tokyo International Forum, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727235000 +0000" stop="20210728015500 +0000" channel="Special Event Sports HD 01">
+    <title lang="en">(L) Handball</title>
+    <desc lang="en">LIVE: Men- Preliminary Round: Denmark vs Bahrain , from Yoyogi National Stadium, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGII.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727012500 +0000" stop="20210727034000 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">(L) Swimming</title>
+    <desc lang="en">LIVE: Mens &amp; Womens: Semi Finals &amp; Finals, from Tokyo Aquatics Centre, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727034000 +0000" stop="20210727052500 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">(D) Hockey: GER vs GBR</title>
+    <desc lang="en">DELAYED: Men - Pool A: Germany vs Great Britain, from Oi Hockey Stadium South Pitch, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727052500 +0000" stop="20210727084000 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">(L) Table Tennis</title>
+    <desc lang="en">LIVE: Mens &amp; Womens Singles - Round 3 &amp; Round of 16, from Tokyo Metropolitan Gym, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727084000 +0000" stop="20210727095500 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">(D) Fencing</title>
+    <desc lang="en">DELAYED: Womens - Epee Team Round of 16, Quaterfinals, Semifinals from Makuhari Messe Hall, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727095500 +0000" stop="20210727130500 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">(L) Swimming</title>
+    <desc lang="en">LIVE: Mens &amp; Womens: Preliminary Round,  from Tokyo Aquatics Centre, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727130500 +0000" stop="20210727151500 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">Swimming</title>
+    <desc lang="en">Mens &amp; Womens: Semi Finals &amp; Finals, from Tokyo Aquatics Centre, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727151500 +0000" stop="20210727213000 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">Table Tennis</title>
+    <desc lang="en">Mens &amp; Womens Singles - Round 3 &amp; Round of 16, from Tokyo Metropolitan Gym, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727213000 +0000" stop="20210727233000 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">Hockey: GER v GBR</title>
+    <desc lang="en">Men - Pool B: Germany vs Great Britain, from Oi Hockey Stadium South Pitch, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727233000 +0000" stop="20210728012500 +0000" channel="Special Event Sports HD 02">
+    <title lang="en">Swimming</title>
+    <desc lang="en">Mens &amp; Womens: Semi Finals &amp; Finals, from Tokyo Aquatics Centre, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727004000 +0000" stop="20210727015000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 2 Part 1, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727015000 +0000" stop="20210727032000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(L) Shooting</title>
+    <desc lang="en">LIVE: Mix 10m Air Pistol, from Asaka Shooting Range - 10m Range.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGF.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727032000 +0000" stop="20210727045500 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(D) Water Polo: RSA vs USA</title>
+    <desc lang="en">Men's Preliminary round - South Africa vs USA, Tatsumi Water Polo Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGG.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727045500 +0000" stop="20210727082500 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(L) Canoe</title>
+    <desc lang="en">LIVE: Women's Kayak Gold, from Kasai Canoe Slalom Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGI.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727082500 +0000" stop="20210727104000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(D) Football: USA vs AUS</title>
+    <desc lang="en">Women's  Round 1 - USA vs Australia, from Ibaraki Kashima Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727104000 +0000" stop="20210727131000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(L) Artistic Gymnastics</title>
+    <desc lang="en">LIVE: Women's Team Final, from Ariake Gymnastics Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727131000 +0000" stop="20210727192000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(D) Water Polo</title>
+    <desc lang="en">Men's Preliminary - Japan vs Hungary &amp; Australia vs Croatia, from Tatsumi Water Polo Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727192000 +0000" stop="20210727211000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">Softball</title>
+    <desc lang="en">Women's Bronze Medal Game, from Yokohama Baseball Stadium, Yokohama, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727211000 +0000" stop="20210727232500 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">Artistic Gymnastics</title>
+    <desc lang="en">Women's Team Final, from Ariake Gymnastics Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727232500 +0000" stop="20210728025000 +0000" channel="Special Event Sports HD 03">
+    <title lang="en">(L) Rowing</title>
+    <desc lang="en">LIVE: Men's &amp; Women's Doublel Sculls Finals B/Fours Finals B/Double Sculls Finals A/Fours Finals A/Repechage/Single Sculls Semifinals, from Sea Forest Waterway.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGIR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727030500 +0000" stop="20210727051000 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">(D) Handball</title>
+    <desc lang="en">Women's Prelims: Brazil vs Hungary, from Yoyogi National Stadium, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVDVW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727051000 +0000" stop="20210727055500 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 2 Part 2, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727055500 +0000" stop="20210727081500 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">(L) Mountain Bike</title>
+    <desc lang="en">LIVE: Women's Cross Country Final, from Izu MTB Course.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGC.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727081500 +0000" stop="20210727094500 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">(D) Sailing</title>
+    <desc lang="en">Men's Finn - 2 races, from Kamakura.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVDVS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727094500 +0000" stop="20210727105000 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 2 Part 2, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727105000 +0000" stop="20210727133000 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">(L) Softball</title>
+    <desc lang="en">LIVE: Women's Final, from Yokohama Baseball Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727133000 +0000" stop="20210727193000 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">Rugby</title>
+    <desc lang="en">Men's Pool Round, from Tokyo Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGA.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727193000 +0000" stop="20210727212000 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">Sailing</title>
+    <desc lang="en">Men's Finn - 2 races, from Kamakura.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVDVS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727212000 +0000" stop="20210727235000 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">Softball</title>
+    <desc lang="en">Women's Final, from Yokohama Baseball Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727235000 +0000" stop="20210728030500 +0000" channel="Special Event Sports HD 04">
+    <title lang="en">(L) Beach Volleyball</title>
+    <desc lang="en">LIVE: Men's &amp; Women's Preliminaries, from Shiokaze Park - Centre Court.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGIX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727005000 +0000" stop="20210727030000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">(L) Basketball: JPN vs FRA</title>
+    <desc lang="en">LIVE: Women's Prelims: Japan vs France, from Saitama Super Arena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGB.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727030000 +0000" stop="20210727035000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 3 Part 1, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727035000 +0000" stop="20210727061000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">Softball</title>
+    <desc lang="en">Women's Bronze Medal Game, from Yokohama Baseball Stadium, Yokohama, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727061000 +0000" stop="20210727075500 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">(L) Water Polo</title>
+    <desc lang="en">LIVE: Men's Preliminary Round: Australia vs Montenegro, from Tatsumi Water Polo Centre, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGFW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727075500 +0000" stop="20210727120000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">Boxing</title>
+    <desc lang="en">Men's &amp; Women's Preliminaries, from Kokugikan Arena, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727120000 +0000" stop="20210727173000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">(D) Volleyball</title>
+    <desc lang="en">Women's Preliminary Round: Brazil vs Dominican Republic &amp; Republic of Korea vs Kenya, from Ariake Arena, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727173000 +0000" stop="20210727203000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">Beach Volleyball</title>
+    <category lang="en">Academic</category>
+    <category lang="en">Live Winter e</category>
+    <category lang="en">Live Academic</category>
+    <category lang="en">Winter Academic</category>
+    <category lang="en">eAcademic</category>
+  </programme>
+  <programme start="20210727203000 +0000" stop="20210728002000 +0000" channel="Special Event Sports HD 05">
+    <title lang="en">Boxing</title>
+    <desc lang="en">Men's &amp; Women's Preliminaries, from Kokugikan Arena, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727001500 +0000" stop="20210727005500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 2 Part 2, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727005500 +0000" stop="20210727065000 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">(L) Badminton</title>
+    <desc lang="en">LIVE: Men's &amp; Women's Singles/Doubles/Mixed Doubles (Group Play Stage), from Musashino Forest Sport Plaza, Chofu, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727065000 +0000" stop="20210727090500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">(L) Weighlifting</title>
+    <desc lang="en">LIVE: Women's 59kg Group A, from Tokyo International Forum, Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGN.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727090500 +0000" stop="20210727095500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">(D) Sailing</title>
+    <desc lang="en">Men's  49er Race, from Enoshima, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGO.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727095500 +0000" stop="20210727134500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">(L) Taekwondo</title>
+    <desc lang="en">LIVE: Women's Repechage &amp; Finals - +67kg &amp; M - +80kg, from Makuhari Messe Hall A, Chiba, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727134500 +0000" stop="20210727154500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">(D) Football: CHI vs JPN</title>
+    <desc lang="en">Women's  Round 1: Chile vs Japan, from Miyagi Stadium, Rifu, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727154500 +0000" stop="20210727225500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">Badminton</title>
+    <desc lang="en">Men's &amp; Women's Singles/Doubles/Mixed Doubles (Group Play Stage), from Musashino Forest Sport Plaza, Chofu, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727225500 +0000" stop="20210728024500 +0000" channel="Special Event Sports HD 06">
+    <title lang="en">(L) Surfing</title>
+    <desc lang="en">LIVE: Women's &amp; Men's Finals, from Tsurigasaki Surfing Beach.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGJI.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727005500 +0000" stop="20210727065700 +0000" channel="Special Event Sports HD 07">
+    <title lang="en">(L) Badminton</title>
+    <desc lang="en">LIVE: Badminton: (M/W) - Singles/Doubles/Mixed Doubles (Group Play Stage) in Musashino Forest Sport Plaza, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727065700 +0000" stop="20210727102500 +0000" channel="Special Event Sports HD 07">
+    <title lang="en">(D) Volleyball: JPN vs SRB &amp; ITA v TUR</title>
+    <desc lang="en">Volleyball: (W) Prelims (Japan vs Serbia &amp; Italy vs Turkey)  in Ariake Arena, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727102500 +0000" stop="20210727133500 +0000" channel="Special Event Sports HD 07">
+    <title lang="en">(L) Table Tennis</title>
+    <desc lang="en">LIVE: Table Tennis: (M/W) Singles Round 16 in Tokyo Metropolitan Gymnasium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGS.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727133500 +0000" stop="20210727153000 +0000" channel="Special Event Sports HD 07">
+    <title lang="en">Hockey: NED vs CAN</title>
+    <desc lang="en">Hockey: (M) POOL B: Netherlands vs Canada in Oi Hockey Stadium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGIG.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727153000 +0000" stop="20210727235500 +0000" channel="Special Event Sports HD 07">
+    <title lang="en">Badminton</title>
+    <desc lang="en">Badminton: (M/W) - Singles/Doubles/Mixed Doubles (Group Play Stage) in Musashino Forest Sport Plaza, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGQ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727235500 +0000" stop="20210728053500 +0000" channel="Special Event Sports HD 07">
+    <title lang="en">(L) Badminton</title>
+    <desc lang="en">LIVE: Badminton: (M/W) Singles/Doubles/Mixed Doubles Quarter Finals Group Play Stage in Musashino Forest Sport, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGJM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727005500 +0000" stop="20210727042500 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">(L) Table Tennis</title>
+    <desc lang="en">LIVE: Table Tennis: (M/W) Singles Round 3 in Tokyo Metropolitan Gymnasium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727042500 +0000" stop="20210727063000 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">(L) 3 x 3 Basketball</title>
+    <desc lang="en">LIVE: 3 x 3 Basketball: (M/W) Pool Round in Saitama Super Arena, Saitama.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727063000 +0000" stop="20210727072000 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 3 Part 1, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727072000 +0000" stop="20210727102500 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">(L) Rugby</title>
+    <desc lang="en">LIVE: Rugby: (M) Placing 9-12 &amp; QFs in Tokyo Stadium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGW.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727102500 +0000" stop="20210727133500 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">(L) Table Tennis</title>
+    <desc lang="en">LIVE: Table Tennis: (M/W) Singles Round 16 in Tokyo Metropolitan Gymnasium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727133500 +0000" stop="20210727153000 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">(D) Football: NED v CHN</title>
+    <desc lang="en">Football:  Women's  Round 1: Netherlands vs China in Yokohama Stadium, Yokohama.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGY.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727153000 +0000" stop="20210727210000 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">Table Tennis</title>
+    <desc lang="en">Table Tennis: (M/W) Singles Round 3 in Tokyo Metropolitan Gymnasium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727210000 +0000" stop="20210727235500 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">Table Tennis</title>
+    <desc lang="en">Table Tennis: (M/W) Singles Round 16 in Tokyo Metropolitan Gymnasium, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGX.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727235500 +0000" stop="20210728053500 +0000" channel="Special Event Sports HD 08">
+    <title lang="en">No information available</title>
+    <desc lang="en">LIVE: Badminton: (M/W) Singles/Doubles/Mixed Doubles Quarter Finals Group Play Stage in Musashino Forest Sport Plaza.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGJR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727002400 +0000" stop="20210727005500 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 2 Part 1, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727005500 +0000" stop="20210727040000 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">(L) Table Tennis</title>
+    <desc lang="en">LIVE: (M/W) Singles Round 3 from Tokyo Metropolitan Gym, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727040000 +0000" stop="20210727045000 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 00 Part 2, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNH.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727045000 +0000" stop="20210727080000 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">(L) Water Polo</title>
+    <desc lang="en">(M) Prelims (KAZ v SRB &amp; ITA vs GRE) from Tatsumi Water Polo Centre, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHE.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727080000 +0000" stop="20210727085500 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 3 Part 1, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727085500 +0000" stop="20210727121000 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">(L) Badminton</title>
+    <desc lang="en">LIVE: (M/W) Singles &amp; Doubles Group Play from Musashino Forest Sport Plaza, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHB.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727121000 +0000" stop="20210727150000 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">(D) Basketball: AUS vs BEL</title>
+    <desc lang="en">(W) Prelims (AUS v BEL) from Saitama Super Arena, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHC.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727150000 +0000" stop="20210728005500 +0000" channel="Special Event Sports HD 09">
+    <title lang="en">Table Tennis</title>
+    <desc lang="en">(M/W) Singles Round 3 from Tokyo Metropolitan Gym, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGGZ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727011000 +0000" stop="20210727015500 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 2 Part 2, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727015500 +0000" stop="20210727060500 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">(L) Boxing</title>
+    <desc lang="en">LIVE: (W/M) WELTER R16/HEAVY R16/ LIGHT R32 from Kokugikan Arena, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHD.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727060500 +0000" stop="20210727083000 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">(D) Taekwondo</title>
+    <desc lang="en">Round of 16 - (W) +67kg &amp; (M) +80kg from Makuhari Messe Hall, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVDVT.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727083000 +0000" stop="20210727093000 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">Tokyo 2020 Daily Highlights</title>
+    <desc lang="en">Catch all the highlights of all the events for the Day 3 Part 1, all exciting and winning moments in Tokyo 2020.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Others (Sports)</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGNM.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727093000 +0000" stop="20210727122500 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">(L) Badminton</title>
+    <desc lang="en">LIVE: (M/W) Singles &amp; Doubles Group Play from Musashino Forest Sport Plaza, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHF.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727122500 +0000" stop="20210727150000 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">(D) 3x3 Basketball</title>
+    <desc lang="en">(M/W) Quarter Finals from Aomi Urban Sports Park, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHG.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727150000 +0000" stop="20210727223000 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">Boxing</title>
+    <desc lang="en">(W/M) WELTER R16/HEAVY R16/ LIGHT R32 from Kokugikan Arena, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHD.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727223000 +0000" stop="20210728002500 +0000" channel="Special Event Sports HD 10">
+    <title lang="en">3x3 Basketball</title>
+    <desc lang="en">(M/W) Quarter Finals from Aomi Urban Sports Park, Tokyo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHG.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727002000 +0000" stop="20210727025000 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Hockey: ARG v AUS</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020: HOCKEY: (M) Pool A - Argentina vs Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHH.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727025000 +0000" stop="20210727040000 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Tokyo 2020: Sailing</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020 SAILING: (M) LASER RACES 4-6 or (W) SKIFF 49erFX RACES 1-3.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHO.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727040000 +0000" stop="20210727060500 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(D) Tokyo 2020: Beach Volleyball</title>
+    <desc lang="en">Olympic Games Tokyo 2020: BEACH VOLLEYBALL: (M/W) Prelims.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHJ.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727060500 +0000" stop="20210727074500 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Tokyo 2020: Shooting</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020 SHOOTING: Mix 10m Air RIFLE.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHP.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727074500 +0000" stop="20210727102500 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Tokyo 2020: Fencing</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020: FENCING: (W)  Epee Team - Bronze and Gold.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHK.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727102500 +0000" stop="20210727115000 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Tokyo 2020: Table Tennis</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020: TABLE TENNIS: Table 4.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727115000 +0000" stop="20210727140500 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Basketball: PUR v CHN</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020: BASKETBALL: (W) Prelims - Puerto Rico vs China.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHL.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727140500 +0000" stop="20210727220000 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(D) Hockey: BEL v RSA</title>
+    <desc lang="en">Olympic Games Tokyo 2020: Hockey: (M) Pool B - BEL v RSA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727220000 +0000" stop="20210727235000 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">Olympic Games Tokyo 2020</title>
+    <desc lang="en">Catch one of the most anticipated sporting event, Olympic Games Tokyo 2020 with thousands of elite athletes competing for the glory, catch this event from 21st July until 8th August 2021.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727235000 +0000" stop="20210728025000 +0000" channel="Special Event Sports HD 11">
+    <title lang="en">(L) Volleyball: CAN v IRI</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020 VOLLEYBALL: (M) Prelims - Canada vs Iran.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGKI.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727035500 +0000" stop="20210727085500 +0000" channel="Special Event Sports HD 12">
+    <title lang="en">(L) Tokyo 2020: Archery</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020 ARCHERY: (M/W) Individuals 1/32 &amp; 1/16 Eliminations.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVDVU.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727085500 +0000" stop="20210727113000 +0000" channel="Special Event Sports HD 12">
+    <title lang="en">(L) Tokyo 2020: Badminton</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020: BADMINTON: (M/W) Singles Court 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JVDVV.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727113000 +0000" stop="20210727123500 +0000" channel="Special Event Sports HD 12">
+    <title lang="en">(L) Tokyo 2020: Table Tennis</title>
+    <desc lang="en">LIVE: Olympic Games Tokyo 2020: TABLE TENNIS: Table 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727123500 +0000" stop="20210727134500 +0000" channel="Special Event Sports HD 12">
+    <title lang="en">(D) Tokyo 2020: Surfing</title>
+    <desc lang="en">Olympic Games Tokyo 2020: SURFING: MEN'S GOLD.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGMR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727134500 +0000" stop="20210727220000 +0000" channel="Special Event Sports HD 12">
+    <title lang="en">(D) Tokyo 2020: Weighlifting</title>
+    <desc lang="en">Olympic Games Tokyo 2020: WEIGHLIFTING: (W) - 64kg Group A Semi Finals &amp; Finals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JUGHR.jpg" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20210727220000 +0000" stop="20210728015500 +0000" channel="Special Event Sports HD 12">
+    <title lang="en">Olympic Games Tokyo 2020</title>
+    <desc lang="en">Catch one of the most anticipated sporting event, Olympic Games Tokyo 2020 with thousands of elite athletes competing for the glory, catch this event from 21st July until 8th August 2021.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Special Event</category>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+</tv>
